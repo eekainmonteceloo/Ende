@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"menu","c":"Menu","l":"Menu()","u":"%3Cinit%3E()"},{"p":"menu","c":"Menu","l":"menuOpciones()"},{"p":"menu","c":"Menu","l":"pedirNumeros()"},{"p":"menu","c":"Menu","l":"repetir()"}];updateSearchResults();
