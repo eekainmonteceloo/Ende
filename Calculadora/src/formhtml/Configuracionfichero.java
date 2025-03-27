@@ -24,5 +24,6 @@ public class Configuracionfichero {
         LOGGER.fine("Mensaje FINE guardado.");
     }
     
+    
    
 }
