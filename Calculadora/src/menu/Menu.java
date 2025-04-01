@@ -6,7 +6,7 @@ public class Menu {
     
     public int[] pedirNumeros(){
         int[] ret = new int[2];
-        System.out.print ("Operando 1: ");
+        System.out.print ("Operando 11: ");
         ret [0] = teclado.nextInt();
         System.out.print ("Operando 2: ");
         ret [1] = teclado.nextInt();
